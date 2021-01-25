@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba527c25-894d-416a-87b8-bc16046d5b84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1nYdU8TyEviRErdIJkvg2kZ03uN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Webas/kitu js projektai" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba527c25-894d-416a-87b8-bc16046d5b84" name="Default Changelist" comment="" />
+      <created>1611570971742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611570971742</updated>
+      <workItem from="1611570973076" duration="3744000" />
+      <workItem from="1611575175912" duration="2317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1611576337680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1611576337680" />
+    <state x="926" y="200" key="FileChooserDialogImpl" timestamp="1611576243870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="926" y="200" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611576243870" />
+    <state x="507" y="284" key="Github.CreateGistDialog" timestamp="1611577382616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="284" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1611577382616" />
+    <state x="957" y="151" width="339" height="562" key="NewPhpClassDialog" timestamp="1611576191458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="957" y="151" width="339" height="562" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1611576191458" />
+    <state x="1035" y="359" key="NewPhpFileDialog" timestamp="1611575843924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1035" y="359" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1611575843924" />
+    <state x="303" y="18" key="SettingsEditor" timestamp="1611574730314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611574730314" />
+  </component>
+</project>
