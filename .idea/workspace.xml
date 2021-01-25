@@ -45,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611570971742</updated>
       <workItem from="1611570973076" duration="3744000" />
-      <workItem from="1611575175912" duration="2317000" />
+      <workItem from="1611575175912" duration="3939000" />
     </task>
     <servers />
   </component>
@@ -53,6 +53,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1029" y="184" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611578103349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1029" y="184" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1611578103349" />
     <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1611576337680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -65,10 +69,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="507" y="284" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1611577382616" />
-    <state x="957" y="151" width="339" height="562" key="NewPhpClassDialog" timestamp="1611576191458">
+    <state x="957" y="151" width="339" height="562" key="NewPhpClassDialog" timestamp="1611578072378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="957" y="151" width="339" height="562" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1611576191458" />
+    <state x="957" y="151" width="339" height="562" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1611578072378" />
     <state x="1035" y="359" key="NewPhpFileDialog" timestamp="1611575843924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -77,5 +81,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="303" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611574730314" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1611578617811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1611578617811" />
   </component>
 </project>

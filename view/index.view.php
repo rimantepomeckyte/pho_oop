@@ -7,9 +7,9 @@
 
 <?php
 
-use Users\User;
+use Users\Student;
 
-$user1 = new User('Rimante', 'rimante@gmail.com', 'Student');
+$user1 = new Student('Rimante', 'rimante@gmail.com', 'Student', 9.5);
 $user1->addDescription('Labai geras vartotojas');
 
 echo "<ul> Vartotojas:";

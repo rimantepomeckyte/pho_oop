@@ -5,11 +5,10 @@ namespace Users;
 //klase naudojant konstruktoriu
 class User
 {
-    public $name;
-    public $email;
-    public $role;
-    public $description;
-    public $userData = [];
+    protected $name;
+    protected $email;
+    protected $role;
+    protected $description;
 
     public function __construct($name,$email,$role){
         $this->name=$name;
@@ -23,11 +22,12 @@ class User
     }
     public function getUserData()
     {
-        $this->userData [] = $this->name;
-        $this->userData [] = $this->email;
-        $this->userData [] = $this->role;
-        $this->userData [] = $this->description;
-        return $this->userData;
+        return $userData = [
+            $this->name,
+            $this->email,
+            $this->role,
+            $this->description
+        ];
     }
 
     //taip apsiraso destruktorius, jis nera praktiskai naudojamas, nes ir taip kai isspausdini jis issitrina
