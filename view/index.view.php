@@ -1,22 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Page Title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale=1, shrink-to-fit=no">
+
 </head>
 <body>
 
 <?php
 
 use Users\Student;
+use Users\Show;
 
 $user1 = new Student('Rimante', 'rimante@gmail.com', 'Student', 9.5);
 $user1->addDescription('Labai geras vartotojas');
 
-echo "<ul> Vartotojas:";
-foreach ($user1->getUserData() as $user) {
-    echo "<li>$user</li> ";
-}
-echo "</ul>";
+Show::ShowData($user1->getUserData());
 
 ?>
 
